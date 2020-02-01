@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iemoobama.codingforcookies.com/sitemap.xml
